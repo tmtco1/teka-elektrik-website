@@ -31,7 +31,7 @@ html {
 
 .topitems {
     position: relative; /* Değiştirildi */
-    color: #1b1b1e;
+    color: #0E26FD;
     display: flex;
     flex-direction: column; /* Yazıları alt alta getirir */
     justify-content: center; /* Dikeyde ortalar */
@@ -50,14 +50,14 @@ p {
     width: 380px;
     display: inline-block;
     padding: 0.65em 1.6em;
-    border: 3px solid #1b1b1e;
+    border: 3px solid #0E26FD;
     margin: 0 0.3em 0.3em 0;
     border-radius: 50px;
     box-sizing: border-box;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
-    color: #1b1b1e;
+    color: #0E26FD;
     text-align: center;
     transition: all 0.2s;
     position: relative;
@@ -65,7 +65,7 @@ p {
 }
 
 .bn13:hover {
-    background-color: #faa000;
+    background-color: #90be6d;
     color: black;
 }
 
